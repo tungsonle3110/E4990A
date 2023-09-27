@@ -88,7 +88,7 @@ class E4990A_fs_sweep:
 
         self.continuous_value = 1
         self.target_traces_list = ["TRACe", "CHANnel", "DISPlayed"]
-        self.pc_file_location_value = "C:\\Users\\cottbus_lab\\Desktop\\"
+        self.pc_file_location_value = "C:\\Users\\Desktop\\"
         self.pc_file_name_value = ""
         self.e4990a_file_location_value = "C:Users\\Instrument\\Desktop\\"
         self.e4990a_file_name_value = ""
